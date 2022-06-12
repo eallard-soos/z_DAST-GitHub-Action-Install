@@ -1,3 +1,3 @@
 # DAST-GitHub-Action-Demo
-Setup a commit-triggered DAST scan using SOOS.io
+Setup a GitHub action to run a DAST scan on every commit using SOOS.io
 
